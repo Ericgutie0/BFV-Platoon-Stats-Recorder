@@ -1,0 +1,9 @@
+Average SPM: 657.51
+Average K/D: 4.17
+Total Kills: 3085873
+Average Kills: 85718.69
+Average KPM: 1.60
+Total Deaths: 808523
+Average Deaths: 22458.97
+Total Revives: 522155
+Average Revives: 14504.31
