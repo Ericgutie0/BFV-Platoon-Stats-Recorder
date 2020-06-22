@@ -1,4 +1,4 @@
-# BFV-Platoon-Stats-Tracker
+# BFV-Platoon-Stats-Recorder
 Records a Platoons (gaming clan) roster overall stats from the game Battlefield V (BFV)
 
 There isn't any program at the moment the calculates a group of friends stats (Platoon) for the game Battlefield V on the internet. There also isn't an open API avalible for the game. 
